@@ -1,11 +1,10 @@
-Brickbuster . . 
+Brickbuster . . .
 
-Its like Blockbuster but without the funny smells! Fast Customer service and our tapes are always rewound just for you!
+It's like Blockbuster, but without the funny smells! We provide fast Customer service, and our tapes are always rewound just for you!
 
-Our phase 3 project was to the take the Many to Many relationship and display it with a front end website. We utilized Ruby Active Record Tables to create the database and then used Instance Methods to pull the filter functions throught!
+My phase 3 project was to the take a many-to-many relationship backend and display it with a React front-end website. We utilized Ruby with Active Record to create the database and then used instance methods to pull the filter functions through.
 
-Here you can check out the list of available films, search by Genre or Title.
-You can also see the Due Dates on the movies you have rented! Checkout or Checkin all in one stop, no waiting in long lines!
+Here you can check out the list of all available films, filter by genre, or search by title. You can also see the due dates of the movies that have been rented.
 
 In the project directory, you can run:
 
