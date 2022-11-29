@@ -4,7 +4,7 @@ It's like Blockbuster, but without the funny smells! We provide fast Customer se
 
 My phase 3 project was to the take a many-to-many relationship backend and display it with a React front-end website. We utilized Ruby with Active Record to create the database and then used instance methods to pull the filter functions through.
 
-Here you can check out the list of all available films, filter by genre, or search by title. You can also see the due dates of the movies that have been rented.
+Here you can check out the list of all available films, filter by genre, or search by title. You can also see the due dates of the movies that have been rented and check them in.
 
 In the project directory, you can run:
 
